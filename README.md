@@ -1,2 +1,2 @@
 # firstpcb
-Repofor my first keyboard pcb
+Repo for my first keyboard pcb
